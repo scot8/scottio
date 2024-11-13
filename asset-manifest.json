@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scottio/static/css/main.013b7c15.css",
+    "main.js": "/scottio/static/js/main.42ae155e.js",
+    "static/media/1675802891135.jpg": "/scottio/static/media/1675802891135.edf494fafd07b6881f89.jpg",
+    "static/media/S-logo.png": "/scottio/static/media/S-logo.8016bbe1c9cc29e8fa6e.png",
+    "index.html": "/scottio/index.html",
+    "main.013b7c15.css.map": "/scottio/static/css/main.013b7c15.css.map",
+    "main.42ae155e.js.map": "/scottio/static/js/main.42ae155e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013b7c15.css",
+    "static/js/main.42ae155e.js"
+  ]
+}
